@@ -50,7 +50,6 @@ private:
 
 	bool m_isAllStop;
 
-	// Worker ¾²·¹µå
 	void Work();
 
 };
